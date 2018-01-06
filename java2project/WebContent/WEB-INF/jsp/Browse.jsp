@@ -92,7 +92,7 @@
 	<script>
 
 		function doDeletion() {
-			return confirm("確定刪除嗎 ?");
+			return confirm("確定刪除嗎 ???");
 		}
 	</script>
 
